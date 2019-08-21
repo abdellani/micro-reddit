@@ -1,5 +1,6 @@
 class Post < ApplicationRecord
-  belongs_to :user, foreign_key: "user_id"
+  belongs_to :user
+  has_many :comments
 
   validates :title, presence: true
   validates :body, presence: true
