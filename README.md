@@ -1,24 +1,6 @@
-# README
+### About Project
+- In this project, we created a data model for micro-reddit, it represente the interaction between the different types of object which are : Authors, Posts and Comments.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Authors
+- Emir Vatric -- [User Github link](https://github.com/EmirVatric)
+- Mohamed Abdellani -- [User Github link](https://github.com/abdellani)
